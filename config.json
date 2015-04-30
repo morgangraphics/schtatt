@@ -1,0 +1,10 @@
+{
+"email": "YOUR EMAIL HERE",
+"password": "YOUR PASSWORD HERE HERE",
+"loginURL" : "https://login.uber.com/login",
+"baseURL" : "https://partners.uber.com",
+"home": {
+	"latitude": 41.850033,
+	"longitude": -87.6500523
+}
+}
