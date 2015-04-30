@@ -1,0 +1,30 @@
+html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+      
+  #controls {
+    font-family: arial, helvetica, sans-serif; font-size:62.5%;
+    padding:10px;
+    position:absolute;
+    top:40px;
+    right:10px;
+    width:180px;
+    height:500px;
+    background:rgba(0,0,0,0.5);
+  }
+
+  #controls select {
+    -webkit-appearance: none;
+    border: 0;
+    background: transparent;
+    outline: none;
+    cursor:pointer;
+  }
+
+  #tripDetail {
+    position:absolute;
+    z-index: 9999;
+    display: none;
+    top:0;
+    left:0;
+    padding:10px;
+    background:rgba(255,255,255,.5);
+  }
